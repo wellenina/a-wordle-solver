@@ -12,8 +12,8 @@ h1 {
 }
 
 h3 {
-margin-top: 25px;
-line-height: 120%;
+    margin-top: 25px;
+    line-height: 120%;
 }
 
 input {
@@ -33,7 +33,7 @@ input {
     border: 3px solid green;
     background-color: white;
     border-radius: 10px;
-
+    padding-bottom: 75px;
 }
 
 button {
@@ -43,8 +43,7 @@ button {
     border: 3px solid #6aaa64;
     border-radius: 4px;
     cursor: pointer;
-padding: 10px;
-
+    padding: 10px;
 }
 
 
@@ -54,8 +53,8 @@ button:hover {
 }
 
 
-.footer {
-    margin: 100px 0 30px 0;
+footer {
+    margin: 50px auto;
 }
 
 #solutions {
